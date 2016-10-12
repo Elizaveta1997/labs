@@ -1,0 +1,5 @@
+C:\Users\Татьяна\documents\visual studio 2015\Projects\ConsoleApplication12\client\bin\Debug\client.exe.config
+C:\Users\Татьяна\documents\visual studio 2015\Projects\ConsoleApplication12\client\bin\Debug\client.exe
+C:\Users\Татьяна\documents\visual studio 2015\Projects\ConsoleApplication12\client\bin\Debug\client.pdb
+C:\Users\Татьяна\documents\visual studio 2015\Projects\ConsoleApplication12\client\obj\Debug\client.exe
+C:\Users\Татьяна\documents\visual studio 2015\Projects\ConsoleApplication12\client\obj\Debug\client.pdb
